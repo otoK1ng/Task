@@ -1,0 +1,41 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.images{
+
+}
+
+.top{
+    padding: 0px 100px;
+    padding-bottom: 50px;
+}
+
+.image{
+    padding: 50px 0px;
+    width: 100%;
+}
+
+.col-6{
+    width: 600px;
+}
+
+.card{
+    border: none;
+}
+
+.mono-invisible{
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.456);
+}
+
+h3{
+    padding: 10px 0px;
+}
+
+.comment{
+    padding-top: 30px;
+    padding-bottom: 130px;
+}
