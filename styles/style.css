@@ -39,3 +39,36 @@ h3{
     padding-top: 30px;
     padding-bottom: 130px;
 }
+/* 
+input {
+    padding-right: 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+  } */
+
+  .btn{
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+  }
+
+  .form-control{
+    background-color: rgb(237, 237, 237);
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+  }
+
+  .input-group{
+    display: flex !important;
+    justify-content: center !important;
+    margin: 0 auto;
+    width: 350px;
+  }
+
+  .row-bottom{
+    background-color: rgb(237, 237, 237);
+    padding: 100px 0px;
+  }
