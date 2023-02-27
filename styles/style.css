@@ -48,7 +48,7 @@ input {
     border-bottom: 2px solid rgb(0, 0, 0);
   } */
 
-  .btn{
+  .butn{
     border: none;
     border-bottom: 1px solid black;
     border-radius: 0px;
@@ -66,9 +66,22 @@ input {
     justify-content: center !important;
     margin: 0 auto;
     width: 350px;
+    padding-top: 25px;
   }
 
   .row-bottom{
     background-color: rgb(237, 237, 237);
     padding: 100px 0px;
+    margin: 70px 0px;
+  }
+
+  .col-button{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn-bottom{
+    border-radius: 0px;
+    padding: 10px 40px;
+    margin-bottom: 20px;
   }
